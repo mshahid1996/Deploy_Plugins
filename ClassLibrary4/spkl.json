@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "profile": "default,debug",
+      "assemblypath": "bin\\Debug",
+      "excludePluginSteps": false
+    },
+    {
+      "profile": "release",
+      "assemblypath": "bin\\Release",
+      "excludePluginSteps": false
+    }
+  ]
+}

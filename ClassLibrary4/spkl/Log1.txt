@@ -1,0 +1,38 @@
+12:46:56 PM	Deploying Plugins
+12:46:56 PM	Searching for plugin config in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:46:56 PM	Using Config 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4'
+12:46:56 PM	Processed 1 config(s)
+12:50:34 PM	Downloading Plugin/Workflow Activity Metadata
+12:50:34 PM	Searching for classes in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:50:36 PM	Found Plugin Type Registration ClassLibrary4.CreateAccountPlugin
+12:50:36 PM	1 classes decorated with deployment attributes!
+12:52:16 PM	Deploying Plugins
+12:52:16 PM	Searching for plugin config in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:52:16 PM	Using Config 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4'
+12:52:16 PM	Processed 1 config(s)
+12:52:27 PM	Downloading Plugin/Workflow Activity Metadata
+12:52:27 PM	Searching for classes in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:52:28 PM	Found Plugin Type Registration ClassLibrary4.CreateAccountPlugin
+12:52:28 PM	1 classes decorated with deployment attributes!
+12:53:28 PM	Deploying Plugins
+12:53:28 PM	Searching for plugin config in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:53:28 PM	Using Config 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4'
+12:53:28 PM	Processed 1 config(s)
+12:53:40 PM	Downloading Plugin/Workflow Activity Metadata
+12:53:40 PM	Searching for classes in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+12:53:41 PM	Found Plugin Type Registration ClassLibrary4.CreateAccountPlugin
+12:53:41 PM	1 classes decorated with deployment attributes!
+2:09:19 PM	Deploying Plugins
+2:09:19 PM	Searching for plugin config in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+2:09:19 PM	Using Config 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4'
+2:09:19 PM	Checking assembly 'ClassLibrary4.dll' for plugins
+2:09:19 PM	1 plugin(s) found!
+2:09:20 PM	Registering Plugin 'ClassLibrary4' from 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\bin\Debug\ClassLibrary4.dll'
+2:09:35 PM	Registering Type 'ClassLibrary4.CreateAccountPlugin'
+2:09:37 PM	Registering Step 'PreCreate Account'
+2:09:39 PM	Checking assembly 'Microsoft.Bcl.AsyncInterfaces.dll' for plugins
+2:09:39 PM	Processed 1 config(s)
+2:10:23 PM	Downloading Plugin/Workflow Activity Metadata
+2:10:23 PM	Searching for classes in 'C:\reactCode\Deploy_Plugins\spklplugintest\ClassLibrary4\spkl\..'
+2:10:24 PM	Found Plugin Type Registration ClassLibrary4.CreateAccountPlugin
+2:10:25 PM	1 classes decorated with deployment attributes!
